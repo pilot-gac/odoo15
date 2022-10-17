@@ -8,7 +8,7 @@
     'category': 'Extra Tools',
     'summary': """
         Odoo School
-        Lesson 6-2: Access rights and record rules. And enjoy!
+        Lesson 6-2: Access rights and record rules. Enjoy!
     """,
     'license': 'LGPL-3',
     'author': 'Garazd Creation',
